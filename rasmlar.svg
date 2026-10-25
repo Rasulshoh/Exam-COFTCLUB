@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="tozalovchi" viewBox="0 0 520 500">
+    <rect x="100" y="30" width="115" height="210" fill="#fff" stroke="#dfe2f0" stroke-width="9"/>
+    <path d="M157 33v204M106 91h103M106 150h103" stroke="#dfe2f0" stroke-width="4"/>
+    <rect x="213" y="270" width="210" height="115" rx="13" fill="#c8cadd"/>
+    <rect x="185" y="298" width="260" height="92" rx="13" fill="#b9bdd1"/>
+    <path d="M216 385l-12 62m210-62 15 62" stroke="#747b9d" stroke-width="13"/>
+    <circle cx="325" cy="104" r="31" fill="#f4b7a4"/>
+    <path d="M294 105c0-40 62-49 68-9l-8 18-15-22-33 13z" fill="#211f59"/>
+    <path d="M305 136l-18 105 64 12 20-92-34-35z" fill="#0878ff"/>
+    <path d="M305 239l-8 130 31 1 20-111 20 114 31-2-25-139z" fill="#22224e"/>
+    <path d="M295 159l-28 76 13 9 46-62m31-25 34 72-16 8-40-54" fill="none" stroke="#f4b7a4" stroke-width="14" stroke-linecap="round"/>
+    <path d="M340 251l-53 117 13 6 62-107m13-13 44 106 14-7-28-124" fill="none" stroke="#666b8c" stroke-width="8"/>
+    <path d="M281 367l-18 26 35 2 11-25m83-3 19 25 29-7-18-20" fill="#858aa8"/>
+    <path d="M287 370l-31 37h40l12-34m81-2 13 37h38l-29-42" fill="#0878ff"/>
+    <path d="M274 370l-20 37h43l12-35" fill="#211f59"/>
+    <path d="M411 359q35 18 78-3l22 19q-50 41-111 9z" fill="#0878ff"/>
+    <path d="M418 380q16 13 34 6" fill="none" stroke="#005bd1" stroke-width="8"/>
+    <path d="M103 432l24-62 21 62m-45 0h65" fill="#4b35e9"/>
+    <path d="M121 369q-19-32-25-7 10 17 25 17m3-7q20-36 28-14-9 19-28 22m-2-12q0-35 12-30 7 18-9 34" fill="#00bc76"/>
+  </symbol>
+  <symbol id="kalendar" viewBox="0 0 200 170">
+    <circle cx="100" cy="88" r="72" fill="#d5e8ff"/>
+    <rect x="48" y="24" width="102" height="118" rx="9" fill="#183b83"/>
+    <rect x="40" y="18" width="98" height="112" rx="8" fill="#fff"/>
+    <rect x="40" y="18" width="98" height="18" rx="8" fill="#0878ff"/>
+    <path d="M56 50h20m12 0h20m12 0h10M57 66h16m15 0h16m14 0h11m-72 16h16m16 0h16m13 0h11m-72 17h16m16 0h16m13 0h11m-72 17h16m16 0h16m13 0h11" stroke="#d7dce9" stroke-width="7" stroke-linecap="round"/>
+    <rect x="82" y="76" width="17" height="17" rx="5" fill="#5138ed"/>
+  </symbol>
+  <symbol id="karta" viewBox="0 0 200 170">
+    <circle cx="100" cy="88" r="72" fill="#d5e8ff"/>
+    <rect x="35" y="68" width="105" height="70" rx="11" fill="#fff" stroke="#183b83" stroke-width="6" transform="rotate(10 35 68)"/>
+    <path d="M53 87l20 4m-23 12 48 8m-51 4 27 5" stroke="#dce4f4" stroke-width="7" stroke-linecap="round"/>
+    <g transform="rotate(-10 112 73)"><rect x="65" y="35" width="108" height="73" rx="12" fill="#0878ff"/><path d="M65 49h108v16H65z" fill="#183b83"/><path d="M80 78h43m-43 13h26" stroke="#183b83" stroke-width="5" stroke-linecap="round"/></g>
+    <circle cx="117" cy="129" r="7" fill="#0878ff"/>
+  </symbol>
+  <symbol id="changyutgich" viewBox="0 0 200 170">
+    <circle cx="100" cy="88" r="72" fill="#d5e8ff"/>
+    <path d="M63 94V52a27 27 0 0 1 54 0v49" fill="none" stroke="#183b83" stroke-width="12"/>
+    <path d="M55 92h18v34H55zm51-5h21v39h-21z" fill="#0878ff"/>
+    <path d="M68 110q25-35 62 0 21 21-6 28H63q-21-11 5-28z" fill="#0878ff"/>
+    <circle cx="62" cy="130" r="16" fill="#1854bb"/>
+    <path d="M133 123h36v13h-36z" fill="#183b83"/>
+    <path d="M153 121V73" stroke="#183b83" stroke-width="8"/>
+    <circle cx="47" cy="35" r="5" fill="#0878ff"/><circle cx="66" cy="27" r="4" fill="#0878ff"/>
+  </symbol>
+  <symbol id="uy" viewBox="0 0 220 180">
+    <circle cx="110" cy="88" r="63" fill="#d5e8ff"/>
+    <path d="M37 91l73-75 76 75" fill="#183b83"/>
+    <path d="M53 88h111v68H53z" fill="#0878ff"/>
+    <path d="M89 116h30v40H89z" fill="#fff"/>
+    <path d="M42 157h145" stroke="#183b83" stroke-width="8"/>
+    <circle cx="48" cy="136" r="9" fill="#00bc76"/><path d="M48 137v20m-1-15-12-10m14 7 10-13" stroke="#00bc76" stroke-width="4"/>
+    <circle cx="171" cy="136" r="9" fill="#00bc76"/><path d="M171 137v20m-1-15-12-10m14 7 10-13" stroke="#00bc76" stroke-width="4"/>
+  </symbol>
+  <symbol id="idora" viewBox="0 0 220 180">
+    <circle cx="110" cy="88" r="63" fill="#d5e8ff"/>
+    <path d="M69 37h81v120H69z" fill="#183b83"/>
+    <path d="M81 27h81v130H81z" fill="#0878ff"/>
+    <path d="M91 38h15v19H91zm25 0h15v19h-15zm25 0h12v19h-12zM91 67h15v19H91zm25 0h15v19h-15zm25 0h12v19h-12zM91 96h15v19H91zm25 0h15v19h-15zm25 0h12v19h-12z" fill="#4aa0ff"/>
+    <rect x="113" y="127" width="27" height="30" rx="5" fill="#fff"/>
+    <path d="M46 158h132" stroke="#183b83" stroke-width="8"/>
+    <circle cx="48" cy="143" r="9" fill="#00bc76"/><circle cx="176" cy="143" r="9" fill="#00bc76"/>
+  </symbol>
+  <symbol id="sanoat" viewBox="0 0 220 180">
+    <circle cx="110" cy="88" r="63" fill="#d5e8ff"/>
+    <path d="M50 70h116v87H50z" fill="#0878ff"/>
+    <path d="M64 42h14v30H64zm28-8h14v38H92z" fill="#183b83"/>
+    <path d="M88 87h58m-58 15h58m-58 15h58" stroke="#56a4ff" stroke-width="7"/>
+    <path d="M106 125h31v32h-31z" fill="#fff"/>
+    <circle cx="42" cy="143" r="9" fill="#00bc76"/><circle cx="174" cy="143" r="9" fill="#00bc76"/>
+    <path d="M40 151v7m134-7v7m-151 0h167" stroke="#183b83" stroke-width="6"/>
+  </symbol>
+  <symbol id="xavfsizlik" viewBox="0 0 400 230">
+    <rect x="24" y="16" width="160" height="195" fill="#35336e"/>
+    <path d="M43 18v165m42-165v165m43-165v165M25 81h158m-158 52h158" stroke="#55538b" stroke-width="5"/>
+    <circle cx="236" cy="72" r="22" fill="#f2b8a3"/>
+    <path d="M215 68q10-41 44-14l-3 19-19-13-17 15z" fill="#211f59"/>
+    <path d="M219 98l-13 60 45 4 16-55-24-17z" fill="#0878ff"/>
+    <path d="M215 111l-20 54m63-51 23 29" stroke="#f2b8a3" stroke-width="10" stroke-linecap="round"/>
+    <path d="M219 157l-8 46m35-43 12 45" stroke="#9ba0bd" stroke-width="13"/>
+    <path d="M266 83l18-25m-5-12 6 11 12-2m-24 21 8 7 12-4" stroke="#00bc76" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="282" cy="53" r="8" fill="#5138ed"/><circle cx="301" cy="76" r="6" fill="#fff"/>
+  </symbol>
+  <symbol id="xonadon" viewBox="0 0 440 300">
+    <path d="M24 115h287v154H24z" fill="#f7f8fc"/>
+    <path d="M10 115l22-67h272l29 67" fill="#dfe2f0"/>
+    <path d="M41 100h237M56 78h204M74 58h169" stroke="#c6cadb" stroke-width="7" stroke-dasharray="10 9"/>
+    <path d="M77 78h45v69H77zm138 0h45v69h-45z" fill="#fff" stroke="#c7cadd" stroke-width="5"/>
+    <path d="M84 91h31m-31 10h31m-31 10h31m108-20h31m-31 10h31m-31 10h31" stroke="#d7d9e6" stroke-width="4"/>
+    <path d="M39 162h79v62H39zm132-6h91v68h-91z" fill="#d8eaff"/>
+    <path d="M48 182h61v12H48m132-5h70" stroke="#0878ff" stroke-width="8"/>
+    <path d="M20 269h302" stroke="#d5d8e7" stroke-width="8"/>
+    <path d="M158 166v103m17-102v102m-33-52h50" stroke="#c7cadd" stroke-width="5"/>
+    <path d="M303 161h58v108h-58z" fill="#f0f2f8"/>
+    <path d="M312 184h43v60h-43z" fill="#0878ff"/>
+    <path d="M327 154v-32h17v32" fill="#c7cadd"/>
+  </symbol>
+  <symbol id="divan" viewBox="0 0 420 300">
+    <rect x="100" y="48" width="120" height="185" fill="#f5f6fa" stroke="#e0e2ed" stroke-width="8"/>
+    <path d="M109 58h48v76h-48zm56 0h47v76h-47zm-56 85h48v79h-48zm56 0h47v79h-47z" fill="#e4e6ef"/>
+    <rect x="300" y="46" width="72" height="160" rx="24" fill="#0878ff"/>
+    <path d="M310 77h52v82h-52z" fill="#1485ff"/>
+    <rect x="234" y="219" width="126" height="22" rx="7" fill="#c8cadd"/>
+    <path d="M248 240l-11 28m101-28 12 28" stroke="#8c91aa" stroke-width="10"/>
+    <circle cx="197" cy="163" r="17" fill="#f2b8a3"/>
+    <path d="M177 163q2-34 38-23l5 22-18-10-20 16z" fill="#211f59"/>
+    <path d="M180 183l37-5 28 43-40 18-32-22z" fill="#0878ff"/>
+    <path d="M194 232l-42 37m56-28 26 19" stroke="#f2b8a3" stroke-width="10" stroke-linecap="round"/>
+    <path d="M183 193l-29 36 13 9 35-34" fill="#22224e"/>
+    <path d="M231 214l33 14-9 10-38-6" fill="#22224e"/>
+    <path d="M140 269h20m87 0h22" stroke="#211f59" stroke-width="7"/>
+    <path d="M52 231h30v37H52z" fill="#e4e6ef"/><path d="M60 230q-12-29-23-12 3 21 23 23m1-6q11-30 22-17-2 21-21 26" fill="#00bc76"/>
+  </symbol>
+  <symbol id="maqola-uy" viewBox="0 0 420 200">
+    <rect width="420" height="200" fill="#e8f3ff"/>
+    <path d="M35 170h345M67 52h120v118H67zm145 0h145v118H212z" fill="#c8e1ff"/>
+    <path d="M83 69h87v80H83zm143 0h115v80H226z" fill="#dcecff"/>
+    <path d="M103 82h12v54h-12zm32 0h12v54h-12zm110 0h12v54h-12zm37 0h12v54h-12z" fill="#b1d4ff"/>
+    <path d="M68 170h272" stroke="#94c3ff" stroke-width="8"/>
+    <path d="M101 158q-12-55 20-55h37q28 0 28 55" fill="none" stroke="#211f59" stroke-width="5"/>
+    <path d="M90 158h107" stroke="#0878ff" stroke-width="10"/>
+    <ellipse cx="128" cy="167" rx="21" ry="7" fill="#183b83"/><ellipse cx="170" cy="167" rx="21" ry="7" fill="#183b83"/>
+    <path d="M273 157q-17-36 2-41 19 4 7 42m-1-21q19-38 31-25-3 22-30 35" fill="#0878ff"/>
+  </symbol>
+  <symbol id="maqola-odam" viewBox="0 0 420 200">
+    <rect width="420" height="200" fill="#e8f3ff"/>
+    <path d="M38 170h344M74 40h116v130H74zm150 0h120v130H224z" fill="#c8e1ff"/>
+    <path d="M91 56h79v95H91zm148 0h88v95h-88z" fill="#e3efff"/>
+    <path d="M105 68h50v8h-50m0 17h50m-50 17h50m96-42h55m-55 17h55m-55 17h55" stroke="#b1d4ff" stroke-width="6"/>
+    <path d="M236 158q-4-37 28-42 26 4 21 42" fill="#0878ff"/>
+    <circle cx="265" cy="98" r="18" fill="#f2b8a3"/>
+    <path d="M246 97q5-31 38-15l-4 18-14-12-18 16z" fill="#211f59"/>
+    <path d="M247 145l-34 18m72-18 20 16" stroke="#f2b8a3" stroke-width="9" stroke-linecap="round"/>
+    <path d="M232 159h68" stroke="#183b83" stroke-width="8"/>
+  </symbol>
+</svg>
