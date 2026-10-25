@@ -67,7 +67,7 @@ img {
   white-space: nowrap;
 }
 
-.tugma.oq {
+.oq {
   border: 1px solid #edf0f6;
   background: #fff;
   color: #211f59;
@@ -86,8 +86,14 @@ img {
   padding: 20px 0 35px;
 }
 
-h1,
-h2,
+h1 {
+  color: #211f59;
+}
+
+h2 {
+  color: #211f59;
+}
+
 h3 {
   color: #211f59;
 }
@@ -100,11 +106,36 @@ h3 {
   white-space: nowrap;
 }
 
-.hero p,
-.xizmat-karta p,
-.qamrov p,
-.farq p,
-.maqola p,
+.hero p {
+  color: #727a9d;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.xizmat-karta p {
+  color: #727a9d;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.qamrov p {
+  color: #727a9d;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.farq p {
+  color: #727a9d;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.maqola p {
+  color: #727a9d;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
 .past p {
   color: #727a9d;
   font-size: 13px;
@@ -163,9 +194,24 @@ h3 {
   text-align: center;
 }
 
-.qadamlar h2,
-.xizmat h2,
-.qamrov h2,
+.qadamlar h2 {
+  font-size: 30px;
+  line-height: 1.2;
+  letter-spacing: -0.7px;
+}
+
+.xizmat h2 {
+  font-size: 30px;
+  line-height: 1.2;
+  letter-spacing: -0.7px;
+}
+
+.qamrov h2 {
+  font-size: 30px;
+  line-height: 1.2;
+  letter-spacing: -0.7px;
+}
+
 .maqola h2 {
   font-size: 30px;
   line-height: 1.2;
@@ -191,7 +237,11 @@ h3 {
   object-fit: contain;
 }
 
-.qadam h3,
+.qadam h3 {
+  margin: 14px 0 10px;
+  font-size: 17px;
+}
+
 .xizmat-karta h3 {
   margin: 14px 0 10px;
   font-size: 17px;
@@ -216,7 +266,13 @@ h3 {
   padding: 28px 2% 74px;
 }
 
-.xizmat-sarlavha,
+.xizmat-sarlavha {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
 .maqola-bosh {
   display: flex;
   align-items: center;
@@ -339,7 +395,11 @@ h3 {
   color: #0878ff;
 }
 
-.qamrov .tugma,
+.qamrov .tugma {
+  min-height: 34px;
+  font-size: 10px;
+}
+
 .farq .tugma {
   min-height: 34px;
   font-size: 10px;
@@ -480,7 +540,13 @@ h3 {
   font-size: 14px;
 }
 
-.past-grid p,
+.past-grid p {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 10px;
+  line-height: 1.7;
+}
+
 .past-grid b {
   display: block;
   margin-bottom: 10px;
